@@ -1,2 +1,2 @@
 # Unblocked games 
-##<button>
+<a href="#" class="button">Post comment (link)</a>
